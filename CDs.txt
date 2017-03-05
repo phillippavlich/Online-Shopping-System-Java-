@@ -1,0 +1,3 @@
+5, Maroon 7.9, Patrick Maroons Mom, 40.0, 189
+3, Maroon 6, Patrick Maroon, 10.0, 222
+51, Adele: 25, Adele, 50.0, 79
